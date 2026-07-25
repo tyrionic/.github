@@ -18,9 +18,9 @@ seed provides a reproducible path for bootstrapping the compiler from source.
 ## Install with Homebrew
 
 ```sh
-brew tap tyrionic/tyrion
-brew trust tyrionic/tyrion
-brew install tyrion
+brew tap tyrionic/tyrionic
+brew trust tyrionic/tyrionic
+brew install tyrionic
 ```
 
 Confirm the installation:
